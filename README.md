@@ -16,9 +16,8 @@
 
 Proficient in delivering highly visible and complex projects, including advanced control systems and user-centric interfaces within fast-paced environments at companies like Murata, Delta Airlines, and Mercedes Benz Stadium. Expertise in software development and architecture, focusing on domains such as programming languages (Java, Python, C++), frameworks & libraries (Angular, React, Spring Boot), and cloud services. Engaged collaborator with strong interpersonal skills, able to influence and align multiple teams with conflicting priorities to drive progress under aggressive time constraints.
 
-- 🔭 I’m currently working on **Python Projects**
-- 🌱 I’m currently learning **Machine Learning and AI**
-- 💬 Ask me about **Python**
+- 🔭 I’m currently working on **Full-stack Projects**
+- 💬 Ask me about **Java**
 - 📫 How to reach me: teontapegues@gmail.com
 
 
@@ -32,5 +31,5 @@ Proficient in delivering highly visible and complex projects, including advanced
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
-![Khai Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyteonta&show_icons=true&theme=radical)
+![Teonta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyteonta&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyteonta&show_icons=true&theme=radical)
