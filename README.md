@@ -13,12 +13,21 @@
 </div>
 
 <br> 
+# 👋 Hi, I'm Teonta Pegues
 
-Proficient in delivering highly visible and complex projects, including advanced control systems and user-centric interfaces within fast-paced environments at companies like Murata, Delta Airlines, and Mercedes Benz Stadium. Expertise in software development and architecture, focusing on domains such as programming languages (Java, Python, C++), frameworks & libraries (Angular, React, Spring Boot), and cloud services. Engaged collaborator with strong interpersonal skills, able to influence and align multiple teams with conflicting priorities to drive progress under aggressive time constraints.
+🚀 Application Engineer at Cobb County | Former Delta Airlines Intern | AWS Cloud Practitioner
 
-- 🔭 I’m currently working on **Full-stack Projects**
-- 💬 Ask me about **Java**
-- 📫 How to reach me: teontapegues@gmail.com
+🛡️ Focused on cloud security, automation, and building tools that protect and scale.
+
+🔧 Languages & Tools:
+Python · Java · AWS Lambda · IAM · Config Rules · Oracle SQL · React · CI/CD · GitHub Actions
+
+## 🔐 Current Projects
+- **🔒 AWS Config Rule Automation**: Python + Lambda function that detects open S3 buckets and remediates access policies.
+- **📡 Cobb County Real-Time Payment Sync API**: Secure Oracle-integrated API using AWS Lambda for real-time data sync.
+- **📊 Court Queue Dashboard**: Serverless web app using AWS AppSync, Cognito, DynamoDB to manage live citizen traffic.
+
+📫 Let’s connect: teontapegues@gmail.com | [LinkedIn](https://www.linkedin.com/in/teonta-pegues)
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
